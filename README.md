@@ -1,13 +1,4 @@
-terrashell
-===
-테라폼 Command Shell
-
-## Overview
-### Requirements
-1. terraform version
-    - 1.5.0 이상
-2. commander
-    - 12.1.0
+terraform backend configuration 과 docker 내 일관된 자동화를 위한 wrapper 
 
 ### Usage
 ```
