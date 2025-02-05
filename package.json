@@ -1,6 +1,6 @@
 {
   "name": "@chali5124/terrashell",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "terraform shell commander",
   "main": "index.js",
   "bin": {
