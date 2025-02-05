@@ -1,0 +1,29 @@
+{
+  "name": "@chali5124/terrashell",
+  "version": "0.0.1",
+  "description": "terraform shell commander",
+  "main": "index.js",
+  "bin": {
+    "terrashell": "index.js"
+  },
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chali5124/terrashell.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "“Charlie <“charlie@gmail.com”>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "undici": "^6.21.0"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.2"
+  }
+}
