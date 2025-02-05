@@ -15,7 +15,7 @@
     "url": "git+https://github.com/chali5124/terrashell.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/chali5124"
   },
   "author": "“Charlie <“charlie@gmail.com”>",
   "license": "ISC",
