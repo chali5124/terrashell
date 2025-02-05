@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/chali5124/terrashell/compare/v0.0.4...v0.0.5) (2025-02-05)
+
+
+### Build System
+
+* update package.json registry ([075e100](https://github.com/chali5124/terrashell/commit/075e1009a36f68e2fc50a6520be910ab643b8d42))
+
 ### [0.0.4](https://github.com/chali5124/terrashell/compare/v0.0.3...v0.0.4) (2025-02-05)
 
 
